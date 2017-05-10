@@ -1,0 +1,2 @@
+[OptionalProjects]
+"AgeOptionalPackage\AgeOptionalPackage.vcxproj"

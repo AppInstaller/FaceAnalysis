@@ -250,3 +250,49 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+/FaceAnalysis/AgeOptionalPackage/Generated Files
+/FaceAnalysis/AgeOptionalPackage/Generated Files/XamlTypeInfo.Impl.g.cpp
+/FaceAnalysis/AgeOptionalPackage/Generated Files/XamlTypeInfo.g.h
+/FaceAnalysis/AgeOptionalPackage/Generated Files/XamlTypeInfo.g.cpp
+/FaceAnalysis/AgeOptionalPackage/Generated Files/XamlLibMetadataProvider.g.cpp
+/FaceAnalysis/AgeOptionalPackage/Generated Files/XamlBindingInfo.g.hpp
+/FaceAnalysis/AgeOptionalPackage/Generated Files/XamlBindingInfo.g.h
+/FaceAnalysis/AgeOptionalPackage/Generated Files/MainPage.xbf
+/FaceAnalysis/AgeOptionalPackage/Generated Files/MainPage.xaml
+/FaceAnalysis/AgeOptionalPackage/Generated Files/MainPage.g.hpp
+/FaceAnalysis/AgeOptionalPackage/Generated Files/MainPage.g.h
+/FaceAnalysis/AgeOptionalPackage/Generated Files/App.xbf
+/FaceAnalysis/AgeOptionalPackage/Generated Files/App.xaml
+/FaceAnalysis/AgeOptionalPackage/Generated Files/App.g.hpp
+/FaceAnalysis/AgeOptionalPackage/Generated Files/App.g.h
+/FaceAnalysis/AgeOptionalPackage/AgeOptionalPackage.vcxproj.filters
+/FaceAnalysis/AgeOptionalPackage/Generated Files/XamlTypeInfo.Impl.g.cpp
+/FaceAnalysis/AgeOptionalPackage/Generated Files/XamlTypeInfo.g.h
+/FaceAnalysis/AgeOptionalPackage/Generated Files/XamlTypeInfo.g.cpp
+/FaceAnalysis/AgeOptionalPackage/Generated Files/XamlLibMetadataProvider.g.cpp
+/FaceAnalysis/AgeOptionalPackage/Generated Files/XamlBindingInfo.g.hpp
+/FaceAnalysis/AgeOptionalPackage/Generated Files/XamlBindingInfo.g.h
+/FaceAnalysis/AgeOptionalPackage/Generated Files/MainPage.xbf
+/FaceAnalysis/AgeOptionalPackage/Generated Files/MainPage.xaml
+/FaceAnalysis/AgeOptionalPackage/Generated Files/MainPage.g.hpp
+/FaceAnalysis/AgeOptionalPackage/Generated Files/MainPage.g.h
+/FaceAnalysis/AgeOptionalPackage/Generated Files/App.xbf
+/FaceAnalysis/AgeOptionalPackage/Generated Files/App.xaml
+/FaceAnalysis/AgeOptionalPackage/Generated Files/App.g.hpp
+/FaceAnalysis/AgeOptionalPackage/Generated Files/App.g.h
+/FaceAnalysis/AgeOptionalPackage/Generated Files
+/FaceAnalysis/AgeOptionalPackage/Generated Files/XamlTypeInfo.Impl.g.cpp
+/FaceAnalysis/AgeOptionalPackage/Generated Files/XamlTypeInfo.g.h
+/FaceAnalysis/AgeOptionalPackage/Generated Files/XamlTypeInfo.g.cpp
+/FaceAnalysis/AgeOptionalPackage/Generated Files/XamlLibMetadataProvider.g.cpp
+/FaceAnalysis/AgeOptionalPackage/Generated Files/XamlBindingInfo.g.hpp
+/FaceAnalysis/AgeOptionalPackage/Generated Files/XamlBindingInfo.g.h
+/FaceAnalysis/AgeOptionalPackage/Generated Files/MainPage.xbf
+/FaceAnalysis/AgeOptionalPackage/Generated Files/MainPage.xaml
+/FaceAnalysis/AgeOptionalPackage/Generated Files/MainPage.g.hpp
+/FaceAnalysis/AgeOptionalPackage/Generated Files/MainPage.g.h
+/FaceAnalysis/AgeOptionalPackage/Generated Files/App.xbf
+/FaceAnalysis/AgeOptionalPackage/Generated Files/App.xaml
+/FaceAnalysis/AgeOptionalPackage/Generated Files/App.g.hpp
+/FaceAnalysis/AgeOptionalPackage/Generated Files/App.g.h
+/FaceAnalysis/AgeOptionalPackage/Generated Files/App.g.h
